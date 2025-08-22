@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">防盗器</string>
+    <string name="motion_detection_status">运动检测状态：</string>
+    <string name="start_charger_removal_detection">开始充电线拔出检测</string>
+    <string name="charger_removal_detection_status">充电线拔出检测状态：</string>
+    <string name="start_pocket_removal_detection">开始口袋取出检测</string>
+    <string name="pocket_removal_detection_status">口袋取出检测状态：</string>
+    <string name="start_motion_detection">开始运动检测</string>
+    <string name="running">运行中</string>
+    <string name="not_running">已停止</string>
+</resources>
